@@ -2,7 +2,7 @@
 🔭 I’m currently working odoo project for my intership
 <br>👯 I’m looking to collaborate on wep apps projects
 <br>🌱 I’m currently learning machine learning
-<br>⚡ Fun fact : I am a good football player
+<br>⚡ Fun fact : I am a cinema freak
 
 
 ## 🌐 Socials:
